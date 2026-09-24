@@ -2,36 +2,33 @@ class Solution {
 public:
     vector<string> findWords(vector<string>& words) {
 
-        unordered_map<int, string> mpp;
-        mpp[1] = "qwertyuiop";
-        mpp[2] = "asdfghjkl";
-        mpp[3] = "zxcvbnm";
-        auto it = mpp.begin();
+        string s1 = "qwertyuiopQWERTYUIOP";
+        string s2 = "asdfghjklASDFGHJKL";
+        string s3 = "zxcvbnmZXCVBNM";
         vector<string> ans;
+        int a = 0, b = 0, c = 0; // will keep track number of same elements that are in the s1 s2 or s3
 
         for (int i = 0; i < words.size(); i++) {
             string temp = words[i];
-            for (int l = 0; l < words[i].size(); l++) {
-                temp[l] = tolower(temp[l]);
-            }
+
             for (int j = 0; j < temp.size(); j++) {
-                if (it == mpp.end()) {
-                    break;
+
+                if (s1.find(temp[j]) != string::npos) {
+                    a++;//if the whole string exist in s1 then a will be equal to the size of temp otherwise not
                 }
-                if (it->second.find(temp[j]) ==
-                    string::npos) { // if we use .find() on a string and it does
-                                    // not find the character it sends back
-                                    // string::npos
-                    it++;
-                    j = -1; // reset
+                if (s2.find(temp[j]) != string::npos) {
+                    b++;
+                }
+                if (s3.find(temp[j]) != string::npos) {
+                    c++;
                 }
             }
-            if (it == mpp.end()) {
-                it = mpp.begin();
-            } else {
-                it = mpp.begin();
-                ans.push_back(words[i]);
+            if(a==temp.size() || b==temp.size() || c==temp.size()){
+                ans.push_back(temp);
+               
+
             }
+             a=b=c=0;
         }
         return ans;
     }
