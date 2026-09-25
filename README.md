@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shauryay1971/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shauryay1971/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/shauryay1971/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/shauryay1971/DSA/tree/master/0238-product-of-array-except-self) |
 | [0500-keyboard-row](https://github.com/shauryay1971/DSA/tree/master/0500-keyboard-row) |
 ## Binary Search
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shauryay1971/DSA/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shauryay1971/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
