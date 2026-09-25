@@ -1,39 +1,23 @@
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-
-        unordered_map<int, pair<int, int>> mpp;
-        // unordered_map<int,pair<int,int>> :: iterator it=mpp.begin(); this is
-        // wrong -- should not make an iterator before the mapping because right
-        // now  when the map is empty mpp.begin()==mpp.end() and it will not
-        // update itself after mapping
-
-        for (int i = 0; i < nums.size(); i++) {
-
-            if (mpp.find(nums[i]) == mpp.end()) {
-                mpp[nums[i]].first = i; // mpp[nums[i]] is the pair and .first
-                                        // is the first elemnt of the pair
-                // in first we store the last index
-                mpp[nums[i]].second =
-                    k +
-                    5; // the difference right now will be larger than needed
-            } else {   // number exist in the map meaning duplicates exist
-
-                mpp[nums[i]].second = min(
-                    mpp[nums[i]].second,
-                    abs(i -
-                        mpp[nums[i]].first)); // mpp[nums[i]].first  right now
-                                              // holds the previous index at
-                                              // which the duplicate was found
-                mpp[nums[i]].first = i;       // update i
+        unordered_map<int,int> mp;
+        int n = nums.size();
+        
+        for(int i=0; i<n; i++)
+        {
+          //true cases will always be adjacent
+            if(mp.count(nums[i]))//if true then duplicate found
+            {
+                // if I have already seen this number, then check for condition (i - j) <= k
+                if((i-mp[nums[i]])<=k)//no need of abs as new index- previous index is always positive
+                    return true;
             }
+            // if I have not seen this number before, insert the number with its position in the map
+            // and if the number is already present in the map, then update the position of that number
+            mp[nums[i]] = i;//for future case if cond was not met now
         }
-        unordered_map<int, pair<int, int>>::iterator it = mpp.begin();
-        for (; it != mpp.end(); it++) {
-            if ((it->second).second <= k) {
-                return true;
-            }
-        }
+        // after the complete traversal, if we don't find a pair to satisfy the condition, return false
         return false;
     }
 };
