@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shauryay1971/DSA/tree/master/0238-product-of-array-except-self) |
 | [0500-keyboard-row](https://github.com/shauryay1971/DSA/tree/master/0500-keyboard-row) |
 | [1004-max-consecutive-ones-iii](https://github.com/shauryay1971/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shauryay1971/DSA/tree/master/0007-reverse-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
