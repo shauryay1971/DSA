@@ -1,28 +1,32 @@
 class Solution {
 public:
     bool isValid(string s) {
-        unordered_map<char, char> mpp;
-        mpp[')'] = '(';
-        mpp['}'] = '{';
-        mpp[']'] = '[';
-        stack<char> st;
+        // ()40,41
+        // []91,93
+        // {}123,125
+        //the closing bracket ascii value is always greater 
+        stack<char>stk;
+        for(int i=0;i<s.size();i++){
+            if(!stk.empty() && (static_cast<int>(s[i]) - static_cast<int>(stk.top()) ==2 || static_cast<int>(s[i]) - static_cast<int>(stk.top()) ==1 )){
+                //meaning stk top is a opening bracket
+                stk.pop();
 
-        for (int i = 0; i < s.size(); i++) {
-
-            if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
-                st.push(s[i]);
-            } else {
-                if (!st.empty() && st.top() == mpp[s[i]] ) {// first we should check the empty condition because if stack is empty then we cannot compare the second condition or even pop anything 
-                    st.pop();
-
-                } else {//this will trigger when a correct pair is not formed or the first element in the string is a closing bracket
-                    return false;
-                }
+            }else if(static_cast<int>(s[i])==40 || static_cast<int>(s[i])==91 || static_cast<int>(s[i])==123){
+                stk.push(s[i]);
+                
+            }else {
+                return false;
             }
+            
+
         }
-        if (st.empty()) {//if some bracket is left 
+
+        if(stk.empty()){
             return true;
+
         }
         return false;
+
+        
     }
 };
