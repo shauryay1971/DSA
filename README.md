@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shauryay1971/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shauryay1971/DSA/tree/master/0238-product-of-array-except-self) |
 | [0500-keyboard-row](https://github.com/shauryay1971/DSA/tree/master/0500-keyboard-row) |
+| [0682-baseball-game](https://github.com/shauryay1971/DSA/tree/master/0682-baseball-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/shauryay1971/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shauryay1971/DSA/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/shauryay1971/DSA/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/shauryay1971/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/shauryay1971/DSA/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/shauryay1971/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
