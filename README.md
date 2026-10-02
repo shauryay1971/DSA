@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shauryay1971/DSA/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/shauryay1971/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0507-perfect-number](https://github.com/shauryay1971/DSA/tree/master/0507-perfect-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
