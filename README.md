@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/shauryay1971/DSA/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/shauryay1971/DSA/tree/master/0682-baseball-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/shauryay1971/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shauryay1971/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
