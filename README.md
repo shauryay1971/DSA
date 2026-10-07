@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shauryay1971/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shauryay1971/DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/shauryay1971/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0507-perfect-number](https://github.com/shauryay1971/DSA/tree/master/0507-perfect-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/shauryay1971/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shauryay1971/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryay1971/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shauryay1971/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
