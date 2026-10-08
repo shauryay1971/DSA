@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shauryay1971/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shauryay1971/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryay1971/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shauryay1971/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shauryay1971/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shauryay1971/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/shauryay1971/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/shauryay1971/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0507-perfect-number](https://github.com/shauryay1971/DSA/tree/master/0507-perfect-number) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shauryay1971/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
