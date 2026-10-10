@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shauryay1971/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shauryay1971/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/shauryay1971/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/shauryay1971/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shauryay1971/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/shauryay1971/DSA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryay1971/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shauryay1971/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shauryay1971/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/shauryay1971/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shauryay1971/DSA/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
