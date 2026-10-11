@@ -2,40 +2,36 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
 
-        //even number of elements -- 
+        vector<int> ans;
 
-        vector<int> pos;
-        vector<int> neg;
-
-        for(int i=0;i<nums.size();i++){
-
-            if(nums[i]>0){
-                pos.push_back(nums[i]);
-            }else{
-                neg.push_back(nums[i]);
-            }
-
-        }
-        bool turn = true;
         int p=0;
-        int k=0;
+        int n=0;
+         bool turn =true;
 
-        for(int i=0;i<nums.size();i++){
+
+        while(ans.size()!=nums.size()){
 
             if(turn){
-                nums[i]=pos[p];
+                while(p<nums.size() && nums[p]<0){
+                    p++;
+                }
+                ans.push_back(nums[p]);
                 p++;
-                turn=false;
+                turn =false;
 
             }else{
-                nums[i]=neg[k];
-                k++;
+                while(n<nums.size() && nums[n]>0){
+                    n++;
+
+                }
+                ans.push_back(nums[n]);
+                n++;
                 turn=true;
             }
 
 
         }
-        return nums;
+        return ans;
         
     }
 };
