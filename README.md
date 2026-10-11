@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/shauryay1971/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0507-perfect-number](https://github.com/shauryay1971/DSA/tree/master/0507-perfect-number) |
+| [1492-the-kth-factor-of-n](https://github.com/shauryay1971/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryay1971/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/shauryay1971/DSA/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/shauryay1971/DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
