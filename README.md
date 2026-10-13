@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shauryay1971/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shauryay1971/DSA/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/shauryay1971/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shauryay1971/DSA/tree/master/0242-valid-anagram) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shauryay1971/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shauryay1971/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shauryay1971/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shauryay1971/DSA/tree/master/0049-group-anagrams) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shauryay1971/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shauryay1971/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/shauryay1971/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
