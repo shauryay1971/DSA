@@ -25,7 +25,7 @@ public:
 
                 }
               
-            }if(track){
+            }if(track){//"aaacb"
 
                 count=count+(s.size()-j)+1;
 
