@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shauryay1971/DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/shauryay1971/DSA/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/shauryay1971/DSA/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/shauryay1971/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shauryay1971/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryay1971/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shauryay1971/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shauryay1971/DSA/tree/master/0238-product-of-array-except-self) |
 | [0500-keyboard-row](https://github.com/shauryay1971/DSA/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/shauryay1971/DSA/tree/master/0682-baseball-game) |
+| [0904-fruit-into-baskets](https://github.com/shauryay1971/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shauryay1971/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryay1971/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shauryay1971/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryay1971/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shauryay1971/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/shauryay1971/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shauryay1971/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shauryay1971/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shauryay1971/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
