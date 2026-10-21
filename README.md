@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shauryay1971/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shauryay1971/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/shauryay1971/DSA/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/shauryay1971/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryay1971/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/shauryay1971/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shauryay1971/DSA/tree/master/0238-product-of-array-except-self) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shauryay1971/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shauryay1971/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/shauryay1971/DSA/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
