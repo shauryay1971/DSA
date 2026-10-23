@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shauryay1971/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shauryay1971/DSA/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryay1971/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/shauryay1971/DSA/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shauryay1971/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shauryay1971/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shauryay1971/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/shauryay1971/DSA/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryay1971/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/shauryay1971/DSA/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shauryay1971/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shauryay1971/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/shauryay1971/DSA/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryay1971/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/shauryay1971/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/shauryay1971/DSA/tree/master/2974-minimum-number-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shauryay1971/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/shauryay1971/DSA/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
