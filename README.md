@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shauryay1971/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryay1971/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shauryay1971/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shauryay1971/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shauryay1971/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/shauryay1971/DSA/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/shauryay1971/DSA/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shauryay1971/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shauryay1971/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/shauryay1971/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
