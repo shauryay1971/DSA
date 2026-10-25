@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/shauryay1971/DSA/tree/master/0507-perfect-number) |
 | [1492-the-kth-factor-of-n](https://github.com/shauryay1971/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/shauryay1971/DSA/tree/master/1518-water-bottles) |
+| [2652-sum-multiples](https://github.com/shauryay1971/DSA/tree/master/2652-sum-multiples) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
