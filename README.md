@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shauryay1971/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/shauryay1971/DSA/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryay1971/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryay1971/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/shauryay1971/DSA/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shauryay1971/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/shauryay1971/DSA/tree/master/0507-perfect-number) |
 | [1492-the-kth-factor-of-n](https://github.com/shauryay1971/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/shauryay1971/DSA/tree/master/1518-water-bottles) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryay1971/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/shauryay1971/DSA/tree/master/2652-sum-multiples) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
