@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shauryay1971/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/shauryay1971/DSA/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/shauryay1971/DSA/tree/master/0507-perfect-number) |
+| [1486-xor-operation-in-an-array](https://github.com/shauryay1971/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/shauryay1971/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/shauryay1971/DSA/tree/master/1518-water-bottles) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryay1971/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/shauryay1971/DSA/tree/master/2974-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/shauryay1971/DSA/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
