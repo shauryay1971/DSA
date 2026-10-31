@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/shauryay1971/DSA/tree/master/1518-water-bottles) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryay1971/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/shauryay1971/DSA/tree/master/2652-sum-multiples) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shauryay1971/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/shauryay1971/DSA/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/shauryay1971/DSA/tree/master/1492-the-kth-factor-of-n) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shauryay1971/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shauryay1971/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/shauryay1971/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shauryay1971/DSA/tree/master/0234-palindrome-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shauryay1971/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
