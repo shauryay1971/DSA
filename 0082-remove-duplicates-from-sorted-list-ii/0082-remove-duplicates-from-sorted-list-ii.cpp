@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        ListNode *prev=head;//will act as the not commmon node
+        ListNode *prev=NULL;//will act as the not commmon node
         ListNode *temp1=head;//acts as the first common node
         
 
@@ -33,7 +33,7 @@ public:
                 if(temp2!=NULL && temp2->val==temp1->val){
                     goto here;
                 }
-                if(temp1==head){//meaingin first element and prev is also head
+                if(temp1==head){//meaingin first element is  head
                     prev=temp2;
                     head=temp2;//we have to move head to as if we delete temp1 and it was the head then where will head poin to 
 
@@ -45,7 +45,7 @@ public:
                 //prev->next=temp2;//if temp1 and prev were pointing to the same node then this will give us error meaing at the start of the list there are same nodes
 
                 temp1=temp2;
-                if(temp2!=NULL){//check for [1,1]
+                if(temp2!=NULL){//check for [1,1]///important case
                      temp2=temp2->next;
 
                 }
