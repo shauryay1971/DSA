@@ -12,34 +12,45 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         ListNode * temp=head;
-        int count=0;
-        while(temp!=NULL){
+        ListNode * temp2=head;
+        bool k = false;
+        while(temp2!=NULL){
+            
+           
+            if(temp2->next==NULL){//odd
+                k=true;
+                break;
+
+
+            }
             temp=temp->next;
-            count++;
+            temp2=temp2->next->next;
+
         }
-        if(count<=1){
+        if(head->next==NULL){
             return true;
 
         }
-        if(count%2==0){
-            temp=head;
+
+        if(k==false){
+            ListNode *temp3=head;
             ListNode *prev=NULL;
             ListNode *forward=NULL;
-            int count2=0;
+            
 
-            while(count2<(count/2)){//when count2==count/2 we stop
-                forward=temp->next;
-                temp->next=prev;
-                prev=temp;
-                temp=forward;
-                count2++;
+            while(temp3!=temp){//when count2==count/2 we stop
+                forward=temp3->next;
+                temp3->next=prev;
+                prev=temp3;
+                temp3=forward;
+                
 
             }
             //temp now points to count/2 + 1 node
 
-            while(temp!=NULL){
-                if(temp->val==prev->val){
-                    temp=temp->next;
+            while(temp3!=NULL){
+                if(temp3->val==prev->val){
+                    temp3=temp3->next;
                     prev=prev->next;
                     
 
@@ -55,26 +66,25 @@ public:
 
         }else{
 
-            temp=head;
+            ListNode *temp3=head;
             ListNode *prev=NULL;
             ListNode *forward=NULL;
-            int count2=0;
-
-            while(count2<(count/2)){
-                forward=temp->next;
-                temp->next=prev;
-                prev=temp;
-                temp=forward;
-                count2++;
-
-
+           
+            
+            while(temp3!=temp){
+                forward=temp3->next;
+                temp3->next=prev;
+                prev=temp3;
+                temp3=forward;
+               
             }
-            //temp now points to count/2 + 1 node
-            temp=temp->next;
+            temp3=temp3->next;
+            
+          
 
-            while(temp!=NULL){
-                if(temp->val==prev->val){
-                    temp=temp->next;
+            while(temp3!=NULL){
+                if(temp3->val==prev->val){
+                    temp3=temp3->next;
                     prev=prev->next;
                     
 
