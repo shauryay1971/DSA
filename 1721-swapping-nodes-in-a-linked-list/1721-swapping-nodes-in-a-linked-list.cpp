@@ -11,44 +11,41 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        
-        //k node from end will be the  n-k+1 node from the start
-        ListNode *temp=head,*front;
-        int count=1;//here count corresponds to the node number
-        
-        
-        while(temp->next!=NULL){
-             if(count==k){
-                front=temp;
+        // if we reach the kth node from the start and then move another pointer
+        // from the head and move it too with the old pointer and when the old
+        // pointer will reach the end then the new pointer will be at the k the
+        // node from the end
 
+        ListNode *temp1 = head, *temp2 = head, *temp3 = nullptr;
+
+        int count = 1;
+
+        bool kt = false;
+
+        while (temp1->next != NULL) {
+
+            if (k == count) { // reaches the first k th node
+
+                temp3 = temp1;
+                kt = true;
             }
-            temp=temp->next;
+            temp1 = temp1->next;
             count++;
-
+            if (kt) {
+                temp2 = temp2->next;
+            }
         }
-        if(count==1){
+        if (k == count) {
+            int r = temp1->val;
+            temp1->val = head->val;
+            head->val = r;
             return head;
-
-        }
-        int p =count-k+1;
-        if(count==k){
-            front=temp;
         }
 
-        int count2=1;
-        temp=head;
-        while(count2!=p){
-            temp=temp->next;
-            count2++;
-
-        }
-        int data2=temp->val;
-        temp->val=front->val;
-        front->val=data2;
-        
-
+        int t = temp3->val;
+        temp3->val = temp2->val;
+        temp2->val = t;
 
         return head;
-
     }
 };
