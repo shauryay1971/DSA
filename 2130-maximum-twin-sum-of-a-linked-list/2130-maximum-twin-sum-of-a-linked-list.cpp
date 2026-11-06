@@ -42,7 +42,6 @@ public:
         while(prev!=NULL){
             
             sum=max(sum,temp->val+prev->val);
-            cout<<prev->val;
             temp=temp->next;
             prev=prev->next;
             
