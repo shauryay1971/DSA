@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryay1971/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryay1971/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/shauryay1971/DSA/tree/master/2974-minimum-number-game) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shauryay1971/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryay1971/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shauryay1971/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shauryay1971/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
