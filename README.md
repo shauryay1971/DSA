@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shauryay1971/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shauryay1971/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shauryay1971/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/shauryay1971/DSA/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/shauryay1971/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/shauryay1971/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shauryay1971/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shauryay1971/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shauryay1971/DSA/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/shauryay1971/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shauryay1971/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/shauryay1971/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shauryay1971/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shauryay1971/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/shauryay1971/DSA/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/shauryay1971/DSA/tree/master/1518-water-bottles) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shauryay1971/DSA/tree/master/0067-add-binary) |
 | [1486-xor-operation-in-an-array](https://github.com/shauryay1971/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
 |  |
