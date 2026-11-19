@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shauryay1971/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/shauryay1971/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/shauryay1971/DSA/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/shauryay1971/DSA/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/shauryay1971/DSA/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/shauryay1971/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/shauryay1971/DSA/tree/master/1492-the-kth-factor-of-n) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/shauryay1971/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/shauryay1971/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shauryay1971/DSA/tree/master/0234-palindrome-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/shauryay1971/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
